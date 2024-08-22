@@ -1,0 +1,320 @@
+{
+  "basics": {
+    "name": "Jacqueline Isabel Bereska",
+    "label": "AI and Medical Imaging Researcher",
+    "image": "",
+    "email": "&#106;&#46;&#105;&#46;&#98;&#101;&#114;&#101;&#115;&#107;&#97; [at] &#97;&#109;&#115;&#116;&#101;&#114;&#100;&#97;&#109;&#117;&#109;&#99; [dot] &#110;&#108;", 
+    "url": "https://jacquelinebereska.github.io/",
+    "summary": "PhD Candidate at the Amsterdam University Medical Centers, specializing in AI and Medical Imaging. Seeking to use problem-solving and coding skills to improve long-term outcome of medical patients.",
+    "location": [
+      {
+        "address": "Meibergdreef 9",
+        "postalCode": "1105 AZ",
+        "city": "Amsterdam",
+        "countryCode": "NL",
+        "region": "Netherlands"
+      }
+    ],
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jacqueline-isabel-bereska-952961156",
+        "url": "https://www.linkedin.com/in/jacqueline-isabel-bereska-952961156/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Amsterdam University Medical Centers",
+      "position": "PhD Candidate AI in Radiology",
+      "url": "",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "summary": "Implementing segmentation and prediction models for pancreatic ductal adenocarcinoma and colorectal cancer.",
+      "highlights": [
+        "Serving as a visiting researcher at Verona Pancreas Institute, Oslo University Hospital, and New York University Langone Health for the validation of prediction and segmentation models.",
+        "Supervising and guiding 16 Master's students.",
+        "Closely collaborating with radiologists and surgeons on development and implementation of clinically relevant AI tools."
+      ]
+    },
+    {
+      "name": "Utrecht University",
+      "position": "Research Assistant Neuropsychology",
+      "url": "",
+      "startDate": "2020-12",
+      "endDate": "2022-01",
+      "summary": "Exploring and understanding data collected from an ongoing research project in neuropsychology.",
+      "highlights": [
+        "Working with serious VR games used to train important cognitive functions of pediatric patients with traumatic brain injuries.",
+        "Visualizing, interpreting, and presenting the collected data to colleagues in Neuropsychology using state-of-the-art data science tools."
+      ]
+    },
+    {
+      "name": "Utrecht University",
+      "position": "Student Ambassador",
+      "url": "",
+      "startDate": "2020-02",
+      "endDate": "2021-08",
+      "summary": "Representing the university at recruiting and introduction events.",
+      "highlights": [
+        "Answering candidates' questions and guiding them through the application process.",
+        "Student commissioner on a selection committee tasked with hiring a new assistant professor."
+      ]
+    },
+    {
+      "name": "Utrecht University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2021-09",
+      "endDate": "2021-11",
+      "summary": "Supervising and grading students during lab sessions for the lecture 'Machine Learning for Human Vision and Language'.",
+      "highlights": [
+        "Teaching students how to analyze data in R."
+      ]
+    },
+    {
+      "name": "Insiders Technologies",
+      "position": "Product Developer",
+      "url": "",
+      "startDate": "2018-10",
+      "endDate": "2019-04",
+      "summary": "Developing and maintaining chatbots in close relationship with individual customers.",
+      "highlights": [
+        "Working on back-end intent classification and entity extraction using Python.",
+        "Developing a front-end chatbot-configuration interface using HTML, CSS, JavaScript and the vue.js framework."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Amsterdam",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://www.uva.nl/en",
+      "area": "Artificial Intelligence",
+      "studyType": "PhD",
+      "startDate": "2022-01",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Utrecht University",
+      "location": "Utrecht, Netherlands",
+      "url": "https://www.uu.nl/en",
+      "area": "Artificial Intelligence",
+      "studyType": "MSc",
+      "startDate": "2019-09",
+      "score": "8.44 (cum laude)",
+      "endDate": "2021-07",
+      "courses": ["Machine Learning for Human Vision and Language", "Multi-Agent Learning", "Natural Language Processing", "Neurocognition of Memory and Attention", "Social and Affective Neuroscience"]
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/english/",
+      "area": "Mandarin Chinese",
+      "studyType": "Foreign Student",
+      "startDate": "2018-07",
+      "endDate": "2018-09",
+      "courses": ["Advanced-level Mandarin Chinese"]
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/english/",
+      "area": "Mandarin Chinese",
+      "studyType": "Foreign Student",
+      "startDate": "2017-07",
+      "endDate": "2017-09",
+      "courses": ["Beginner-level Mandarin Chinese"]
+    },
+    {
+      "institution": "University of Heidelberg",
+      "location": "Heidelberg, Germany",
+      "url": "https://www.uni-heidelberg.de/en",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2016-09",
+      "endDate": "2019-07",
+      "score": "2.3",
+      "courses": ["Machine Learning", "Artificial Intelligence", "Project Management", "Linear Algebra", "Analysis", "Mathematical Logic", "Microeconomics", "Game Theory"]
+    },
+    {
+      "institution": "Wilhelm-Roepke Wirtschaftsgymnasium",
+      "location": "Ettlingen, Germany",
+      "url": "https://wrs-ettlingen.de/",
+      "area": "Abitur",
+      "studyType": "High School",
+      "startDate": "2012-09",
+      "endDate": "2015-07",
+      "score": "1.6",
+      "courses": ["Mathematics", "Financial Management", "Economics", "Business"]
+    },
+    {
+      "institution": "Lycée Jacques Prévert",
+      "location": "Taverny, France",
+      "url": "https://lyc-prevert-taverny.ac-versailles.fr/",
+      "area": "Seconde",
+      "studyType": "High School",
+      "startDate": "2011-09",
+      "endDate": "2012-07",
+      "courses": ["French", "Théâtre et Expression Dramatique", "Anglais", "Allemand", "Science de la Vie et de la Terre", "Physique-Chimie"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Prized by German Mathematical Society",
+      "date": "2015",
+      "awarder": "German Mathematical Society",
+      "summary": "Recognized for outstanding performance in mathematics during Abitur."
+    },
+    {
+      "title": "Certificate for outstanding overall grade point achievement in academic year",
+      "date": "2015-07",
+      "awarder": "Wilhelm-Roepke Wirtschaftsgymnasium",
+      "summary": "Recognized for outstanding overall performance during Abitur."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Radiomics preoperative-Fistula Risk Score (RAD-FRS) for pancreatoduodenectomy: development and external validation ",
+      "publisher": "BJS Open",
+      "releaseDate": "2023-19",
+      "url": "https://academic.oup.com/bjsopen/article/7/5/zrad100/7301233",
+      "summary": "Development and external validation of a pre-operative radiomics-based fistula risk score for pancreatoduodenectomy, which demonstrated similar predictive performance compared to existing intra-operative fistula risk scores."
+    },
+    {
+      "name": "Artificial intelligence for assessment of vascular involvement and tumor resectability on CT in patients with pancreatic cancer",
+      "publisher": "European Radiology Experimental",
+      "releaseDate": "2024-02",
+      "url": "https://link.springer.com/article/10.1186/s41747-023-00419-9",
+      "summary": "Development of a model using CT images to accurately assess vascular involvement and tumor resectability in patients with pancreatic ductal adenocarcinoma."
+    },
+    {
+      "name": "Improving the Reliability of Medical Diagnostic Models through Rule-Based Decision Deferral",
+      "publisher": "Proceedings of the Inaugural 2023 Summer Symposium Series 2023",
+      "releaseDate": "2023-10",
+      "url": "https://ojs.aaai.org/index.php/AAAI-SS/article/view/27488",
+      "summary": "Proposed a rule-based decision deferral framework to enhance the reliability of medical diagnostic models by identifying and deferring uncertain predictions to human experts."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Medical Imaging",
+      "level": "Advanced",
+      "icon": "fa-solid fa-shield-alt",
+      "keywords": [
+        "Segmentation Modelling",
+        "Prediction Modelling",
+        "Transformer Models",
+        "Semi-Supervised Learning",
+        "UNet models"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "C/C++",
+        "JavaScript",
+        "Confluence/Jira",
+        "Git",
+        "Bash",
+        "Linux",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "English",
+      "fluency": "Native",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Conversational",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Conversational",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational",
+      "icon": "fa-solid fa-flag"
+    }
+  ],
+  "supervision": [
+    {
+      "level": "MSc",
+      "program": "Information Systems",
+      "institution": "University of Amsterdam",
+      "startDate": "2022",
+      "endDate": "2024",
+      "students": [
+        "Fleur van Ruyven", "Aukje Terpstra", "Krishnanand Vasudevan", "Mattia Cintioli", "Matej Lončarić", "Raiz Fatehmahomed",
+        "Selina Palić", "Luuk Wagenaar", "Danial Iqbal",
+        "Anya Nikiforova", "Amir Azman"
+      ]
+    },
+    {
+      "level": "MSc",
+      "program": "Artificial Intelligence",
+      "institution": "University of Amsterdam",
+      "startDate": "2023",
+      "endDate": "2024",
+      "students": [
+        "Marius Strampel"
+      ]
+    },
+    {
+      "level": "MSc",
+      "program": "MSc Medical Imaging",
+      "institution": "Utrecht University",
+      "startDate": "2023",
+      "endDate": "2024",
+      "students": [
+        "Alina Guzu"
+      ]
+    },
+    {
+      "level": "BSc",
+      "program": "BSc Medical Natural Sciences",
+      "institution": "Free University of Amsterdam",
+      "startDate": "2024",
+      "endDate": "2024",
+      "students": [
+        "Megan de Klein"
+      ]
+    },
+    {
+      "level": "BSc",
+      "program": "BSc Biomedical Sciences",
+      "institution": "Free University of Amsterdam",
+      "startDate": "2023",
+      "endDate": "2023",
+      "students": [
+        "Gidon Quint"
+      ]
+    }
+  ]
+}
