@@ -64,8 +64,6 @@ I have supervised and co-supervised several Bachelor's and Master's students in 
 
 _Are you a student passionate about Computer Vision, Medical Imaging, Abdominal Oncology, or related fields? If so, I welcome you to contact me to explore potential mentorship or collaborative research opportunities._
 
-
-
 ##### teaching
 
 - [Pancreas Prime Time] at the Verona University Hospital, Italy: Exploring AI in medical imaging: AI-driven analysis and clinical integration (Guest lecturer).  
@@ -76,7 +74,7 @@ _Are you a student passionate about Computer Vision, Medical Imaging, Abdominal 
 
 ## summer schools and courses 
 
-I have participated in several summer schools and workshops to enhance my knowledge in AI and AI Safety:
+I have participated in several summer schools and workshops to enhance my knowledge in AI:
 
 - [Milan Machine Learning School](https://www.m2lschool.org/past-editions/m2l-2022-italy), Milan, Italy, September 2022.
 - [Oxford Machine Learning Summer School OxML](https://www.oxfordml.school/2022), Oxford, England, August 2022.
